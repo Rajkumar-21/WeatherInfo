@@ -1,0 +1,5 @@
+{
+  "name": "AgriMap AI",
+  "description": "Interactive Google Earth map-based app to view weather, temperature, rainfall, and crop growth prediction with real-time simulator and future prediction.",
+  "requestFramePermissions": []
+}
